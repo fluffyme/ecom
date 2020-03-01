@@ -1,0 +1,8 @@
+.babelrc
+env.js
+proxy/
+package-lock.json
+package.json
+server.js
+static/
+webpack/
